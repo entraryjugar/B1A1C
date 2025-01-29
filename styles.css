@@ -10,9 +10,10 @@ body {
 header {
     background-color: #ffffff; /* Color principal */
     color: white;
-    padding: 8px;
+    padding: 0px;
     text-align: center;
     display: flex;
+    height: 50px;
     box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.5);
 }
 
@@ -67,8 +68,10 @@ footer {
     background-color: #C8102F;; /* Color principal */
     color: white;
     text-align: center;
-    padding: 5px;
-    position: fixed;
-    bottom: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 40px;
+    
     width: 100%;
+    
 }
